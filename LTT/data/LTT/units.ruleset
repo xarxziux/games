@@ -2182,7 +2182,7 @@ uk_gold       = 1
 flags         = "BadCityDefender"
 roles         = "DefendOk", "DefendOkStartUnit"
 helptext      = _("\
-The Cruiser is a strong offensive boat unit.\
+The Cruiser is a strong defensive boat unit.\
 ")
 
 [unit_aegis_cruiser]
